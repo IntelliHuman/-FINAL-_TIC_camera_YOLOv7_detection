@@ -1,0 +1,10 @@
+# dataset path
+train: ./temp2/custom_dataset/images/train/
+val: ./temp2/custom_dataset/images/val/  
+test: ./temp2/custom_dataset/images/test/
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'person']
