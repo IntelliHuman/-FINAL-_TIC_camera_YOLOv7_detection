@@ -43,3 +43,16 @@
     ![alt text](image-9.png)
   - [학습4]학습 결과  
     ![alt text](image-10.png)
+  - [학습5]학습 결과
+    ![alt text](image-11.png)
+  - [학습6]학습 결과
+    ![alt text](image-12.png)
+  
+---
+## 4. 모델 선택
+- 각 모델별 Precision, Recall, mAP50, mAP50-95 성능 비교  
+![alt text](image-13.png)
+---
+## 5. TIC camera에서의 모델 구동
+- 아래 링크를 클릭하면 유튜브 영상으로 이동됩니다!  
+[![Video Label](http://img.youtube.com/vi/WjUb3YShVYA/0.jpg)](https://www.youtube.com/watch?v=WjUb3YShVYA)
